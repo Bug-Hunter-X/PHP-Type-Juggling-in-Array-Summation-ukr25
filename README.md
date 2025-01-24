@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in PHP: type juggling during array summation. The `calculateSum` function unintentionally adds a string to the sum, resulting in unexpected behavior. The solution showcases how to explicitly type check array elements to prevent this issue.
